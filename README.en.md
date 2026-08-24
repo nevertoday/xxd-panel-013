@@ -42,7 +42,18 @@ The ticket uses a strict approximately 74/26 large-left/small-right division: tw
 
 These samples demonstrate the 013 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 013 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Keep the photograph inside one healing watercolour collectible ticket |
+| **Recognizable signature** | ONE HORIZONTAL TICKET · 74/26 SPLIT · HEALING WATERCOLOUR · IVORY SPACE · LOCALISED INFORMATION STUB |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A “watercolour postcard” easily collapses into a generic full-bleed landscape, isolated-object vignette, dirty filter, or ecommerce template covered in decorative postmarks and fake coordinates.
 
@@ -54,7 +65,7 @@ lock subject and necessary environment → preserve at least three source cues �
 
 If an unrelated photograph could replace the source without materially changing the watercolour subject, necessary environment, palette, field meanings, stamp relation, or copy, the result is not 013.
 
-## The 013 visual contract
+## What makes the finished style recognizable
 
 - **Subject and necessary environment:** at least three source-specific cues preserve identity, pose, scale, placement, landmark, and spatial relation.
 - **One horizontal ticket:** centred in generous ivory space, never repeated, collaged, or enlarged to fill the canvas.
