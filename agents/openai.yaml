@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 013"
+  display_name: "/xxd-panel-013"
   short_description: "Create healing watercolour collectible tickets."
   default_prompt: "Use $xxd-panel-013 to rebuild my photo as one centred horizontal collectible ticket with a source-bound healing watercolour scene, strict 74/26 information stub, ivory whitespace, matte deckled paper, one restrained stamp, and locale-native fields; ask first for modes and copy or locale preferences."
