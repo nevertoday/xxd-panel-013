@@ -1,56 +1,79 @@
-# XXD Panel 013 | Healing Watercolour Collectible-Ticket Production Prompt
+# XXD Panel 013 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/013-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 013. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Lock the subject, necessary environment, silhouette, pose, structure, placement, scale, and narrative relation. Preserve at least three source-specific recognition cues. Never borrow a place, subject, palette, ticket data, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Subject and necessary environment
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Find the source's most memorable subject–environment relation and summarise it inside one horizontal watercolour ticket. People retain pose, orientation, clothing mass, and relational distance; animals retain body rhythm and setting; plants retain growth gesture and light; architecture retains skyline and defining openings; objects and vehicles retain functional silhouette, scale, and placement; landscapes retain the source-specific horizon, terrain, path, water, or atmosphere.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Never isolate the subject from an environment required for identity or meaning. Secondary detail may soften, but preserve the minimum setting and spatial relation needed for immediate correspondence with the photograph. Add no generic landmark, airport code, route, tourism story, or unsupported prop.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## One ticket and 74/26 geometry
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Suspend exactly one horizontal ticket inside generous ivory or warm-white space. Keep it as the only focus; do not repeat cards, build a collage, or enlarge the ticket to fill the canvas. Use thick matte watercolour stock, a fine deckled or micro-serrated edge, and only a very light natural contact shadow. Reject stains, burnt edges, cracks, and theatrical ageing.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-The ticket is strictly large-left/small-right: about 74% watercolour scene and 26% information stub. Divide them with one precise vertical dashed perforation, tooth line, or tear line. Never drift toward equal halves, a diagonal split, or irregular scrapbook layers. Keep consistent top and bottom margins; image, type, stamp, number, short rules, and dot rows obey one implicit grid and baseline family.
+### Text generated from the original prompt
 
-## High-value healing watercolour
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Choose the freshest and most vital source colours, translating them into two to four neighbouring high-value, low-to-medium-saturation natural tones. Sage, mist blue, pale blue-grey, cream yellow, warm sand, and light terracotta are possible directions, never a fixed palette. Use only a tiny warm contrast when supported by the source.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Brushwork is clear and light, preserving paper white, soft blooms, transparent layering, wet/dry variation, and a little pigment grain. Keep the subject slightly clearer while distance and secondary environment soften. Build hierarchy through watercolour concentration and edge control rather than realistic lighting, complex detail, digital gradients, or heavy opaque fill.
+### User-exact text
 
-Reject muddy haze, yellow cast, heavy brown, loud colour collision, cheap vintage filters, cinematic glow, thick oil impasto, photoreal rendering, plastic texture, and 3D.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-## Information stub and copy
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Obey the resolved automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. In text-free mode render no field, number, stamp lettering, text, or pseudo-text.
+### No text
 
-Automatic copy creates one extremely short source-bound title or moment phrase and only a minimal useful field set. Native equivalents of DATE, PLACE, SUBJECT, MOMENT, FIELD, and NO. may be used, but both labels and values must be localised rather than silently left in English.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Dates, places, coordinates, routes, ticket numbers, provenance, and travel events must be user-supplied, visibly established, or reliably confirmed. Never fabricate them. For non-city or non-travel subjects, replace irrelevant place fields with object, state, project, chapter, season, relation, or emotion records grounded in the image. Compositional indexes must visibly read as indexes rather than facts.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Align all fields to one left edge, baseline family, and interval system with clear hierarchy and ample whitespace. Use only one restrained circular stamp; it may overlap the divider or lower grid slightly without obscuring valid information. Reject floating data, a wall of decorative postmarks, tourism slogans, oversized headlines, and software-UI styling.
-
-## Mode and acceptance
-
-
-Hard gate: exactly one centred horizontal ticket in generous ivory space; at least three source cues and the necessary subject–environment relation; thick matte watercolour stock, fine edge, and very light contact shadow; approximately 74/26 large-left/small-right geometry with one precise vertical perforation; two to four neighbouring healing colours, light transparent watercolour, a slightly clearer subject, and softened environment; locale-native right-stub fields on common left edges and baselines, one circular stamp, and no fabricated facts; no isolated-object vignette, full-bleed generic watercolour, dirty ageing, yellow-brown cast, loud collision, loose type, excessive ornament, photoreal illustration, ecommerce template, photo fragment, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 013-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
