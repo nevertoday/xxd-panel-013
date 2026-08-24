@@ -22,6 +22,26 @@ XXD Panel 013는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 티켓 내부는 약 74/26의 좌대우소 구조입니다. 왼쪽은 원본을 고명도·저중채도의 인접색 2–4개로 부드럽게 번역하고, 오른쪽은 대상 언어의 정보 필드, 번호와 절제된 원형 도장 하나로 정돈합니다. 두꺼운 무광 수채화지, 섬세한 가장자리, 거의 보이지 않는 접촉 그림자와 넓은 아이보리 여백이 소중히 보관한 여행 스케치 티켓의 감촉을 만듭니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
+> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 013의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 013이 필요한가요
 
 일반적인 ‘수채화 엽서’는 화면 가득한 범용 풍경, 고립된 사물, 더러운 빈티지 필터 또는 가짜 좌표와 소인을 붙인 쇼핑몰 템플릿으로 쉽게 무너집니다.
@@ -43,26 +63,6 @@ XXD Panel 013는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **절제된 위계:** 주제는 조금 선명하고 원경과 보조 환경은 자연스럽게 약해지며 사실적 조명과 복잡한 세부를 피합니다.
 - **소장품 종이감:** 두꺼운 무광 수채화지, 섬세한 데클 또는 톱니 가장자리, 아주 옅은 자연 접촉 그림자만 사용합니다.
 - **정보 그리드:** 현지화 필드, 번호, 짧은 선, 점열과 원형 도장 하나를 같은 왼쪽선, 기준선, 간격에 맞추며 사실을 꾸며 내지 않습니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
-> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 013의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

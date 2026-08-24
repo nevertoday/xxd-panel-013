@@ -24,6 +24,26 @@ XXD Panel 013 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تنقسم التذكرة داخلياً بنحو 74/26: تعيد الجهة اليسرى ترجمة المصدر بلونين إلى أربعة ألوان متجاورة عالية الإضاءة ومنخفضة إلى متوسطة التشبع، وتنظّم الجهة اليمنى حقول معلومات باللغة المستهدفة ورقماً وختمًا دائرياً واحداً مقتصداً. يمنحها ورق مائي سميك مطفأ وحافة دقيقة وظل تماس خفيف جداً وفراغ عاجي واسع إحساس تذكرة رسم سفر محفوظة بعناية.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
+> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 013 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 013؟
 
 تتحول «البطاقة البريدية المائية» بسهولة إلى منظر عام يملأ الإطار أو شيء معزول أو مرشح قديم متسخ أو قالب تجارة إلكترونية مغطى بأختام زخرفية وإحداثيات مختلقة.
@@ -45,26 +65,6 @@ XXD Panel 013 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **تدرج مقتصد:** يبقى الموضوع أوضح قليلاً فيما تخف الخلفية والعناصر الثانوية طبيعياً، من دون إضاءة واقعية أو تفاصيل معقدة.
 - **مادة قابلة للاقتناء:** ورق مائي سميك مطفأ وحافة دقيقة ممزقة أو مسننة وظل تماس طبيعي خفيف جداً.
 - **شبكة معلومات:** تتشارك الحقول المحلية والرقم والخطوط القصيرة وصفوف النقاط وختم دائري واحد الحافة اليسرى وخطوط الأساس والمسافات؛ ولا تُختلق الحقائق.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
-> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 013 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

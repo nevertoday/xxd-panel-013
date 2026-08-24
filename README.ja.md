@@ -22,6 +22,26 @@ XXD Panel 013 は、Codex と互換 Agent のための画像生成 Skill です�
 
 内部は約 74/26 の左大・右小分割です。左は元写真を高明度・低〜中彩度の近似色 2〜4 色でやさしく水彩化し、右は対象言語の情報項目、番号、一つの控えめな円形印で整えます。厚いマット水彩紙、細かな毛羽立ち、極薄い接触影、広い象牙色の余白が、丁寧に保存された旅のスケッチ券の感触を作ります。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
+> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 013 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 013 が必要なのか
 
 一般的な「水彩ポストカード」は、全面の汎用風景、孤立した物体、汚れた古色フィルター、偽の座標と消印を貼った通販テンプレートへ崩れがちです。
@@ -43,26 +63,6 @@ XXD Panel 013 は、Codex と互換 Agent のための画像生成 Skill です�
 - **抑制した階層：** 主体は少し明瞭、遠景と副次環境は自然に弱くし、写実的照明や複雑な細部を避けます。
 - **収集物の紙感：** 厚いマット水彩紙、細かな毛羽または鋸歯、極薄い自然な接触影だけを使います。
 - **情報グリッド：** 現地語の項目、番号、短線、点列、一つの円印を同じ左端、基線、間隔へ揃え、事実を捏造しません。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
-> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 013 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

@@ -22,6 +22,26 @@ XXD Panel 013 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 票体内部严格约 74/26 左大右小：左侧以 2–4 个高明度、低至中等饱和度的相近色重译源图，右侧用目标语言的信息字段、编号与一枚克制圆章建立秩序。厚实哑光水彩纸、细密毛边、极轻投影和象牙白大留白让成品像被认真保存的旅行速写票据。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
+> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 013 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 013
 
 普通“水彩明信片”很容易变成满版通用风景、孤立物件、脏旧滤镜，或贴满邮戳与假坐标的电商模板，既失去源图关系，也失去编辑秩序。
@@ -43,26 +63,6 @@ XXD Panel 013 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **层次克制：** 主体稍清楚，远景和次要环境自然减弱，不做写实光影和复杂细节。
 - **收藏纸感：** 厚实哑光水彩纸、细密锯齿或毛边、极轻自然接触投影，不做烧边和重度做旧。
 - **信息网格：** 本地化字段、编号、短线、点列与一枚圆章沿统一左边线、基线和间距排列，绝不虚构事实。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
-> GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 013 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 013 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 013 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
