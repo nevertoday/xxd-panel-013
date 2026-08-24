@@ -1,5 +1,13 @@
 # XXD Panel 013 | Healing Watercolour Collectible-Ticket Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this current task. Lock the subject, necessary environment, silhouette, pose, structure, placement, scale, and narrative relation. Preserve at least three source-specific recognition cues. Never borrow a place, subject, palette, ticket data, copy, or composition from old outputs, samples, or another input.
 
 ## Subject and necessary environment
@@ -34,7 +42,6 @@ Align all fields to one left edge, baseline family, and interval system with cle
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose ticket scale and outer whitespace for every device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: exactly one centred horizontal ticket in generous ivory space; at least three source cues and the necessary subject–environment relation; thick matte watercolour stock, fine edge, and very light contact shadow; approximately 74/26 large-left/small-right geometry with one precise vertical perforation; two to four neighbouring healing colours, light transparent watercolour, a slightly clearer subject, and softened environment; locale-native right-stub fields on common left edges and baselines, one circular stamp, and no fabricated facts; no isolated-object vignette, full-bleed generic watercolour, dirty ageing, yellow-brown cast, loud collision, loose type, excessive ornament, photoreal illustration, ecommerce template, photo fragment, or pseudo-text.
 
