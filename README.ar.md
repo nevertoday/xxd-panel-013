@@ -27,7 +27,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 013 نموذج 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090111918921158977"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 013 نموذج 4"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 013 نموذج 5"></td>
+  </tr>
 </table>
+
+> نموذج إضافي: تم اختيار صورة واحدة عشوائياً من مجموعة ملصقات تشن شيانغ، ثم إنشاء تكوين 16:9 يسار-يمين وفق الموجز الأصلي لهذه المهارة مع نص إنجليزي يولّده النموذج منطقياً.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090111918921158977) · 2026-08-19<br>
 > GPT2 x 票根 x 明信片 x 邮戳 x 美学提示词 x VOL.013
