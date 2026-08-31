@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 013
+# 🦁 XXD Panel 013｜여행 티켓 앨범
 
 ### 사진을 한 장의 치유 수채화 소장 티켓으로 남깁니다
 

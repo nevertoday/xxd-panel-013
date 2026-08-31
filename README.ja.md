@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 013
+# 🦁 XXD Panel 013｜旅の半券帳
 
 ### 写真を一枚の癒やし系水彩コレクションチケットへ
 
