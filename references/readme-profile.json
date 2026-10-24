@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 013｜Travel Ticket Album: keeps the subject of a photo, with the bit of setting that makes the memory, inside one horizontal watercolour ticket that floats on wide ivory space: a strict split of about three-quarters soft, light watercolour scene and one-quarter information stub, divided by a perforated tear line, on thick matte watercolour card with fine serrated edges and a faint shadow, in a gentle palette of sage, mist blue, pale teal-grey, cream yellow, warm sand and light terracotta, with a gridded stub of short fields such as DATE, PLACE, SUBJECT, MOMENT and NO., dates, numbers, dotted rules and one round postmark. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-013 or asks for watercolour travel tickets, postcard-and-ticket stubs or travel-journal keepsakes from a photo.",
+  "short_description": "旅行票据册：把照片收进一张左画右票、齿孔分隔的治愈系水彩旅行票根",
+  "zh-CN": {
+    "name": "旅行票据册",
+    "tagline": "把照片收进一张左边水彩、右边票根、像被好好收藏的旅行票据。",
+    "look": "画面中间悬着一张横向票体，四周是大片象牙白：左边约四分之三是水彩画，右边约四分之一是信息票根，中间用竖向虚线、齿孔或撕票线隔开，卡纸厚实哑光，边缘有细密锯齿和极轻的投影。水彩保留主体和最有记忆点的一点环境，笔触轻薄，有透白、晕染和干湿变化；颜色转成鼠尾草绿、雾蓝、浅青灰、奶油黄、暖沙色、淡陶土色这类柔和色。票根上按照片内容排出 DATE、PLACE、SUBJECT、MOMENT、NO. 等少量字段，配日期、编号、点列和一枚圆形邮戳，全部对齐同一条网格线。",
+    "traits": [
+      "横向票体",
+      "水彩",
+      "象牙白",
+      "旅行",
+      "本地化票据信息"
+    ],
+    "good": [
+      "旅途中的风景和街景：海边小镇、山间小站、老街转角、湖边长椅",
+      "有纪念意义的地点或一天：一家咖啡馆、一场音乐节、一次登山",
+      "非旅行的主题也行，字段会改成对象名、季节或心情：一只猫、一盆花、一次生日"
+    ],
+    "poor": [
+      "深色、厚重的照片，比如夜景、浓棕色室内，会被调成浅色治愈系，原本的氛围会丢",
+      "希望画面自由散排、没有票据格式的需求",
+      "需要写实细节或复杂插画的图"
+    ]
+  },
+  "en": {
+    "name": "Travel Ticket Album",
+    "tagline": "Keeps your photo in a ticket with watercolour on the left and a stub on the right, like a treasured travel keepsake.",
+    "look": "One horizontal ticket floats in the middle of wide ivory space: about three-quarters on the left is a watercolour painting and about a quarter on the right is an information stub, divided by a dashed line, perforations or a tear line, on thick matte card with fine serrated edges and a faint shadow. The watercolour keeps your subject with the one bit of setting that makes the memory, in light strokes with white paper showing through, soft blooms and wet-and-dry variation, recoloured in gentle tones such as sage, mist blue, pale teal-grey, cream yellow, warm sand and light terracotta. The stub carries a few fields chosen from the photo, such as DATE, PLACE, SUBJECT, MOMENT and NO., with dates, numbers, dotted rules and one round postmark, all aligned to the same grid.",
+    "traits": [
+      "Horizontal ticket",
+      "Watercolour",
+      "Ivory white",
+      "Travel",
+      "Localised ticket details"
+    ],
+    "good": [
+      "Travel scenery and street views: a seaside town, a mountain station, an old street corner, a lakeside bench",
+      "A place or day worth remembering: a café, a music festival, a hike",
+      "Non-travel subjects work too, with fields becoming a name, season or mood: a cat, a pot of flowers, a birthday"
+    ],
+    "poor": [
+      "Dark, heavy photos such as night scenes or deep-brown interiors, which get lightened into soft tones and lose their mood",
+      "Requests for a free, scattered layout without the ticket format",
+      "Images that need realistic detail or complex illustration"
+    ]
+  },
+  "ja": {
+    "name": "旅の半券帳",
+    "tagline": "写真を、左に水彩、右に半券を備えた、大切に取っておいた旅のチケットのような一枚にします。",
+    "look": "広いアイボリーの余白の中央に横長のチケットが浮かびます。左の約四分の三が水彩画、右の約四分の一が情報の半券で、あいだは縦の点線、ミシン目、切り取り線で区切られ、厚手のマットなカードには細かなギザギザの縁とごく淡い影があります。水彩は主役と、思い出の決め手になる少しの環境だけを残し、筆致は薄く軽く、紙の白抜け、にじみ、乾湿の変化があります。色はセージグリーン、霧のブルー、淡い青灰、クリームイエロー、温かい砂色、淡いテラコッタのような柔らかい色に置き換えます。半券には写真に合わせて DATE、PLACE、SUBJECT、MOMENT、NO. などの項目を少しだけ並べ、日付、番号、点の列、丸い消印を一つ添えて、すべて同じグリッドにそろえます。",
+    "traits": [
+      "横長のチケット",
+      "水彩",
+      "アイボリー",
+      "旅",
+      "その土地のチケット情報"
+    ],
+    "good": [
+      "旅先の風景や街並み：海辺の町、山の小さな駅、古い通りの角、湖畔のベンチ",
+      "記念に残したい場所や一日：カフェ、音楽フェス、山歩き",
+      "旅以外の主題でも、項目が名前や季節や気分に変わります：猫、花の鉢、誕生日"
+    ],
+    "poor": [
+      "夜景や濃い茶色の室内など暗く重い写真（淡く癒やし系の色に変わり、元の雰囲気が失われます）",
+      "チケットの形式を使わず自由に散らしたレイアウトを求める場合",
+      "写実的な細部や複雑なイラストが必要な画像"
+    ]
+  },
+  "ko": {
+    "name": "여행 티켓 앨범",
+    "tagline": "사진을 왼쪽은 수채화, 오른쪽은 티켓 꼭지로 된, 소중히 간직한 여행 티켓 한 장으로 만듭니다.",
+    "look": "넓은 아이보리 여백 한가운데 가로로 긴 티켓 하나가 떠 있습니다. 왼쪽 약 4분의 3은 수채화, 오른쪽 약 4분의 1은 정보 꼭지이며, 사이는 세로 점선, 절취 구멍, 찢는 선으로 나뉩니다. 두껍고 무광인 카드에는 촘촘한 톱니 가장자리와 아주 옅은 그림자가 있습니다. 수채화는 주인공과 기억의 핵심이 되는 약간의 환경만 남기고, 붓질은 얇고 가볍게, 종이의 흰 비침과 번짐, 마르고 젖은 변화가 있습니다. 색은 세이지 그린, 안개 파랑, 연한 청회색, 크림 노랑, 따뜻한 모래색, 연한 테라코타 같은 부드러운 색으로 바꿉니다. 꼭지에는 사진에 맞춰 DATE, PLACE, SUBJECT, MOMENT, NO. 같은 항목을 몇 개만 두고 날짜, 번호, 점선, 둥근 소인 하나를 곁들이며, 모두 같은 격자에 맞춥니다.",
+    "traits": [
+      "가로형 티켓",
+      "수채화",
+      "아이보리",
+      "여행",
+      "현지화된 티켓 정보"
+    ],
+    "good": [
+      "여행지 풍경과 거리: 바닷가 마을, 산속 작은 역, 오래된 골목 모퉁이, 호숫가 벤치",
+      "기념하고 싶은 장소나 하루: 카페, 음악 페스티벌, 등산",
+      "여행이 아니어도 괜찮습니다. 항목이 이름, 계절, 기분으로 바뀝니다: 고양이, 꽃 화분, 생일"
+    ],
+    "poor": [
+      "야경이나 짙은 갈색 실내처럼 어둡고 무거운 사진(연한 힐링 색으로 바뀌어 원래 분위기가 사라집니다)",
+      "티켓 형식 없이 자유롭게 흩어진 레이아웃을 원하는 경우",
+      "사실적인 디테일이나 복잡한 일러스트가 필요한 이미지"
+    ]
+  },
+  "ar": {
+    "name": "ألبوم تذاكر السفر",
+    "tagline": "يحفظ صورتك في تذكرة نصفها الأيسر رسم مائي ونصفها الأيمن قسيمة، كتذكار سفر محفوظ بعناية.",
+    "look": "تطفو تذكرة أفقية واحدة وسط فراغ عاجي واسع: نحو ثلاثة أرباعها على اليسار لوحة بالألوان المائية، ونحو الربع على اليمين قسيمة معلومات، يفصل بينهما خط منقّط أو ثقوب أو خط قطع، على بطاقة سميكة مطفأة بحواف مسنّنة دقيقة وظل خفيف جداً. يحتفظ الرسم المائي بالعنصر الرئيسي ومعه القليل من المكان الذي يصنع الذكرى، بضربات خفيفة يظهر منها بياض الورق وانتشار ناعم وتفاوت بين الرطب والجاف، ويُعاد تلوينه بدرجات هادئة مثل الأخضر المريمي والأزرق الضبابي والرمادي المخضر الفاتح والأصفر الكريمي والرملي الدافئ والطيني الفاتح. تحمل القسيمة حقولاً قليلة مختارة من الصورة مثل DATE وPLACE وSUBJECT وMOMENT وNO.، مع تواريخ وأرقام وسطور منقّطة وختم بريدي دائري واحد، وكلها على شبكة واحدة.",
+    "traits": [
+      "تذكرة أفقية",
+      "ألوان مائية",
+      "أبيض عاجي",
+      "سفر",
+      "بيانات تذكرة محلية"
+    ],
+    "good": [
+      "مناظر السفر والشوارع: بلدة ساحلية، محطة جبلية صغيرة، زاوية شارع قديم، مقعد قرب بحيرة",
+      "مكان أو يوم يستحق التذكّر: مقهى، مهرجان موسيقي، رحلة مشي",
+      "تصلح موضوعات غير السفر أيضاً، فتتحول الحقول إلى اسم أو فصل أو مزاج: قطة، أصيص زهور، عيد ميلاد"
+    ],
+    "poor": [
+      "الصور الداكنة الثقيلة كالمشاهد الليلية والغرف البنية الداكنة، إذ تُفتَّح إلى درجات ناعمة فيضيع جوّها الأصلي",
+      "طلب تنسيق حر متناثر من دون شكل التذكرة",
+      "صور تحتاج إلى تفاصيل واقعية أو رسم معقد"
+    ]
+  }
+}
